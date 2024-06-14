@@ -1,13 +1,13 @@
-# Configuraci髇 de Puertos del PLC
+# Configuraci贸n de Puertos del PLC
 
 Este documento describe los puertos utilizados por el PLC Siemens LOGO! 8 en nuestra red.
 
-## Informaci髇 General del PLC
+## Informaci贸n General del PLC
 - **Modelo:** Siemens LOGO! 8
-- **Direcci髇 IP:** 192.168.0.100
+- **Direcci贸n IP:** 192.168.0.4
 
 ## Puertos Utilizados
-| Puerto | Protocolo | Descripci髇          |
+| Puerto | Protocolo | Descripci贸n          |
 |--------|-----------|----------------------|
 | 80     | TCP       | Interfaz web (HTTP)  |
 | 443    | TCP       | Interfaz web segura (HTTPS) |
